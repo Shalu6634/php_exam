@@ -17,7 +17,6 @@
 - RESTful design: API routes follow REST conventions.
 - CRUD operations: Create, Read, Update, and Delete operations for each table.
 - Error handling: Proper error messages are returned for invalid requests.
-- Secure password storage: User passwords are hashed before storing.
 - MySQL database: All data is stored in a MySQL database.
 ## 🛠️ Technologies Used
 - PHP 7+: Server-side scripting language.
