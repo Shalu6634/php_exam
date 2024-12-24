@@ -23,3 +23,7 @@
 - MySQL: Database management system.
 - Postman/Insomnia: API testing tools.
 - JSON: Data format for API requests and responses.
+
+
+https://github.com/user-attachments/assets/fc132aa6-ecea-4051-9092-071dda373571
+
